@@ -19,7 +19,6 @@ more about hosts, geographical availability.
 
 ## Data Source
 (1) Data:
-
 https://www.kaggle.com/dgomon-
 ov/new-york-city-airbnb-open-data
 
