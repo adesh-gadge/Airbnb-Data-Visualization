@@ -1,5 +1,6 @@
 # Data Visualization for Airbnb Listings in NYC, 2019 
-## 1.1 Story
+(visit the pdf to see the poster)
+## 1 Story
 Since 2008, guests and hosts have used Airbnb to
 expand on traveling possibilities and present a
 more unique, personalized way of experiencing
@@ -10,14 +11,14 @@ of price, location, other features such as type,
 name distributions of Airbnb listings in New York
 City.
 
-## 1.2 Data Discrpition 
+## 2 Data Discrpition 
 Summary information and metrics for listings in New
 York City for 2019 (updated in Aug). The dataset in-
 cludes 16 columns and 48895 observations. This
 data file includes all needed information to find out
 more about hosts, geographical availability.
 
-## Data Source
+## 3 Data Source
 (1) Data:
 https://www.kaggle.com/dgomon-
 ov/new-york-city-airbnb-open-data
